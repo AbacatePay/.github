@@ -41,4 +41,4 @@ Venha fazer parte da comunidade AbacatePay e ajude-nos a **revolucionar o mercad
 
 ---
 
-**Dúvidas?** Entre em contato conosco via [Discord](https://discord.gg/HVNWYE5V)!
+**Dúvidas?** Entre em contato conosco via [Discord](https://discord.com/invite/CP57mm7EFk)!
