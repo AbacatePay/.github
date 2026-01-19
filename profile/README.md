@@ -1,44 +1,45 @@
-# 🥑 AbacatePay 
+<h1 align="center">AbacatePay Open Source 🥑</h1>
 
-Bem-vindos ao repositório oficial da **AbacatePay**! Este é o seu ponto de partida para explorar, contribuir e aprender com nossos projetos open source.
+<p align="center">
+  Gateway de pagamentos simples, inovadora, previsível e com SDKs open source — feito para devs brasileiros.<br>
+  Integre PIX facilmente com uma taxa fixa de <strong><em>R$ 0,80</em></strong> centavos, nada mais que isso, com tudo que a AbacatePay tem para oferecer.
+</p>
 
-## 💡 O que é a AbacatePay?
+<img src="https://res.cloudinary.com/dkok1obj5/image/upload/v1767631413/avo_clhmaf.png" width="100%" alt="AbacatePay Open Source Image"/>
 
-A AbacatePay é uma **solução de pagamento inovadora** que oferece um gateway especializado em transações via PIX, com uma proposta única no mercado: **taxa fixa de apenas R$ 0,80 por transação**.
+<h2 align="center">O que você vai encontrar aqui?</h2>
 
-Nossa missão é democratizar o acesso a soluções de pagamento eficientes e acessíveis para desenvolvedores e empresas de todos os tamanhos.
+<p align="center">No nosso <em>Open Source</em> você encontrará recursos ricos para integrar fácilmente com a AbacatePay, como os nossos <em>SDKs</em>, <em>documentação</em> completa com todos os nossos recursos, <em>extensões</em> para o seu editor de código favorito e muito mais.</p>
 
-## 📚 O que você encontra neste repositório
+<p align="center">Para uma lista completa de recursos, dê uma olhadinha na nossa <em><a href="https://github.com/AbacatePay/awesome-abacatepay">Awesome List 💯</a></em>.</p>
 
-Este repositório irá encontrar diversos recursos essenciais:
+<h2 align="center">Como contribuir?</h2>
 
-- **SDKs multi-linguagem**: Implementações prontas para integração da AbacatePay em diferentes tecnologias
-- **Documentação completa**: Guias detalhados, tutoriais e referências da API
-- **Landing Pages**: Exemplos e templates para facilitar sua implementação
+<p align="center">Nós acreditamos fortemente no poder do Open Source, cada contribuição é muito bem vinda para a nossa comunidade.</p>
 
-## 🤝 Como contribuir
+<h3 align="center">🚀 Primeiros passos</h3>
 
-Acreditamos no poder da comunidade open source e toda contribuição é muito bem-vinda! Aqui está como você pode participar:
+<p align="center">
+  1. Explore os repositórios disponíveis<br>
+  2. Encontre uma issue interessante<br>
+  3. Implemente a solução<br>
+  4. Sugira melhorias ou novas ideias
+</p>
 
-### 🚀 Primeiros passos
+<h3 align="center">🔄 Fluxo de contribuição</h3>
 
-1. **Explore os repositórios** disponíveis
-2. **Identifique issues** que despertam seu interesse
-3. **Comece a trabalhar** na solução
-4. **Sugira melhorias** através de novas issues
+<p align="center">
+  1. Faça um fork do repositório<br>
+  2. Crie uma branch para sua feature ou correção<br>
+  3. Desenvolva sua solução<br>
+  4. Abra um Pull Request bem descrito<br>
+  5. Revisamos e damos feedback rápido
+</p>
 
-### 🔄 Fluxo de contribuição
+<h2 align="center">Junte-se à revolução, use a AbacatePay</h2>
 
-1. Faça um **fork** do repositório desejado
-2. Crie uma **branch** para sua feature/correção
-3. Desenvolva sua solução
-4. Abra um **Pull Request** com descrição clara das mudanças
-5. Nossa equipe revisará e validará sua contribuição o mais rápido possível
-
-## 🌟 Junte-se à revolução
-
-Venha fazer parte da comunidade AbacatePay e ajude-nos a **revolucionar o mercado de SaaS** no Brasil!
+<p align="center">Junte-se conosco e venha fazer parte da comunidade da AbacatePay no <em><a href="https://discord.gg/HVNWYE5V">Discord</a></em> e nos ajuda a revolucionar o mercado de SaaS no Brasil!</p>
 
 ---
 
-**Dúvidas?** Entre em contato conosco via [Discord](https://discord.gg/HVNWYE5V)!
+<p align="center">Isso não é o fim, é apenas o começo da AbacatePay 🥑.</p>
