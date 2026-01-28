@@ -1,0 +1,33 @@
+name: Bug report
+description: Report a reproducible bug
+labels: [bug]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What happened?
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. ...
+        2. ...
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Package / Version
+      placeholder: "@abacatepay/sdk@x.y.z"
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or errors
+      render: shell
