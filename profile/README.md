@@ -13,25 +13,6 @@ No nosso *Open Source* você encontrará recursos ricos para integrar fácilment
 
 Para uma visão completa do ecossistema, confira nossa *[Awesome List 💯](https://github.com/AbacatePay/awesome-abacatepay)*.
 
-## Como contribuir?
-
-Nós acreditamos fortemente no poder do Open Source, cada contribuição é muito bem vinda para a nossa comunidade.
-
-### 🚀 Primeiros passos
-
-1\. Explore os repositórios disponíveis  
-2. Encontre uma issue interessante  
-3. Implemente a solução  
-4. Sugira melhorias ou novas ideias  
-
-### 🔄 Fluxo de contribuição
-
-1\. Faça um fork do repositório  
-2. Crie uma branch para sua feature ou correção  
-3. Desenvolva sua solução  
-4. Abra um Pull Request bem descrito  
-5. Receba feedback rápido da equipe 
-
 ## Integre com a AbacatePay em poucas linhas
 
 </div>
@@ -40,7 +21,8 @@ Nós acreditamos fortemente no poder do Open Source, cada contribuição é muit
 import { Webhooks } from '@abacatepay/supabase';
 
 export const POST = Webhooks({
-    async onPayload({ data, event }) { ... },
+    secret: process.env.WEBHOOK_SECRET!,
+    async onBillingPaid({ data, event }) { ... },
 });
 ```
 
