@@ -21,8 +21,10 @@ Para uma visão completa do ecossistema, confira nossa *[Awesome List 💯](http
 import { Webhooks } from '@abacatepay/supabase';
 
 export const POST = Webhooks({
-    secret: process.env.WEBHOOK_SECRET!,
-    async onBillingPaid({ data, event }) { ... },
+    secret: process.env.WEBHOOK_SECRET,
+    async onBillingPaid({ data, event }) {
+      ...
+    },
 });
 ```
 
