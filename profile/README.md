@@ -30,7 +30,7 @@ export const POST = Webhooks({
 
 ## Junte-se à revolução, use a AbacatePay
 
-Junte-se conosco e venha fazer parte da comunidade da *AbacatePay no [Discord](https://discord.gg/HVNWYE5V)* e nos ajuda a revolucionar o ecossistema de pagamentos no Brasil!
+Junte-se conosco e venha fazer parte da comunidade da *AbacatePay no [Discord](https://discord.gg/SKArpBqju4)* e nos ajuda a revolucionar o ecossistema de pagamentos no Brasil!
 
 ---
 
